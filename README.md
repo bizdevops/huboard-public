@@ -1,2 +1,2 @@
 # huboard-public
-A public account to test the JIRA integration
+A public account to test the Huboard integration
